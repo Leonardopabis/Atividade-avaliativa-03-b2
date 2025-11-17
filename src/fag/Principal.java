@@ -25,6 +25,7 @@ public class Principal {
 		fun1.adicionarConstrucoes(constru1);
 		fun1.adicionarConstrucoes(constru2);
 		constru1.adicionarFuncionario(fun1);
+		constru2.adicionarFuncionario(fun1);
 		menuPrincipal();
 		
 	}
